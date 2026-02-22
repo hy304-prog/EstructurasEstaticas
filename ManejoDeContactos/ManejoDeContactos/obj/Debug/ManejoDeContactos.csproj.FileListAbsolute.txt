@@ -1,0 +1,9 @@
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\bin\Debug\ManejoDeContactos.exe.config
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\bin\Debug\ManejoDeContactos.exe
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\bin\Debug\ManejoDeContactos.pdb
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\obj\Debug\ManejoDeContactos.csproj.AssemblyReference.cache
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\obj\Debug\ManejoDeContactos.Properties.Resources.resources
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\obj\Debug\ManejoDeContactos.csproj.GenerateResource.cache
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\obj\Debug\ManejoDeContactos.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\obj\Debug\ManejoDeContactos.exe
+D:\Escritorio\C#\ManejoDeContactos\ManejoDeContactos\obj\Debug\ManejoDeContactos.pdb

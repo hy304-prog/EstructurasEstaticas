@@ -1,0 +1,9 @@
+D:\Escritorio\C#\Agenda\Agenda\bin\Debug\Agenda.exe.config
+D:\Escritorio\C#\Agenda\Agenda\bin\Debug\Agenda.exe
+D:\Escritorio\C#\Agenda\Agenda\bin\Debug\Agenda.pdb
+D:\Escritorio\C#\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+D:\Escritorio\C#\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+D:\Escritorio\C#\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+D:\Escritorio\C#\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\Agenda\Agenda\obj\Debug\Agenda.exe
+D:\Escritorio\C#\Agenda\Agenda\obj\Debug\Agenda.pdb
